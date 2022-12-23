@@ -1,0 +1,3 @@
+FROM java
+ADD . .
+EXPOSE 80
